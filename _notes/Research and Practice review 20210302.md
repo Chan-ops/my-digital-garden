@@ -7,7 +7,7 @@ Currently, some of my practices are dealing with Liminality:
 
 For the first two practices, I mainly use photography. The last one is represented by text(daily writing).
 
-![[Untitled 1.png]]
+![[Untitled 1.jpg]]
 fig.o1
 
 
