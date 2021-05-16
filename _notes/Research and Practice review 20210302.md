@@ -1,3 +1,4 @@
+
 ## Liminality
 Currently, some of my practices are dealing with Liminality:
 
@@ -7,7 +8,7 @@ Currently, some of my practices are dealing with Liminality:
 
 For the first two practices, I mainly use photography. The last one is represented by text(daily writing).
 
-![Untitled 1 1](/Users/chan/Documents/GitHub/my-digital-garden/assets/Untitled 1 1.jpg)
+![Untitled 1 1](https://user-images.githubusercontent.com/65089419/118400375-43286f00-b659-11eb-9141-fc72a136c4d9.jpg)
 fig.o1
 
 ![Untitled 1](/Users/chan/Documents/GitHub/my-digital-garden/assets/Untitled 1.jpg)
