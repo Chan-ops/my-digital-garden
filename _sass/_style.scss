@@ -28,11 +28,11 @@ time {
 }
 
 footer {
-  margin: 2em 0;
+  margin: 0;
   font-size: 32px;
   text-align: center;
-  color: mix($color-text, white, 80%);
-  background-color:  #3b3dfc;
+  color: $color-border;
+  border: 5px solid #3b3dfc;
   padding-top: 1em;
 }
 
