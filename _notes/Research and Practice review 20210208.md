@@ -1,5 +1,3 @@
-# Thoughts and Plannings for recent practices.(FEB.08.2021)
-Date: Feb 9, 2021 9:19 AM
 Tags: #Identity, #Non-binary, #Socialexpectation, #binaryopposition
 
 I’m confused about my working process, so I try to sort it out though writing.

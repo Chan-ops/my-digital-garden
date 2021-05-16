@@ -5,16 +5,11 @@ id: home
 permalink: /
 ---
 
-# Hello! 🌱
+# 🌱 Hello! 🌱
 
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[My digital research Garden]]</span> to get started on your exploration.
-</p>
+I use this Digital Garden mapping out all my researches by imitating how brian works. 
 
+I publish [[practice and research review]] every few weeks. 
 
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
+Recently, we started a workshop: East Asian Women Artist Workshop. (👉   [[Before I became a Female or Feminist, I’m myself.]])
