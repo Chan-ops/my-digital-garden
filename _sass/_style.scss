@@ -49,6 +49,8 @@ blockquote {
   margin: 0;
   font-size: 0.88em;
   background: $color-box-background;
+  border-color: $color-border;
+  border-style: solid;
   border-radius: $border-radius;
 
   p {
