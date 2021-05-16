@@ -7,19 +7,16 @@ Currently, some of my practices are dealing with Liminality:
 
 For the first two practices, I mainly use photography. The last one is represented by text(daily writing).
 
-![[Untitled 1.jpg]]
+![Untitled 1 1](/Users/chan/Documents/GitHub/my-digital-garden/assets/Untitled 1 1.jpg)
 fig.o1
 
-
-![[Untitled 1 3.png]]
+![Untitled 1](/Users/chan/Documents/GitHub/my-digital-garden/assets/Untitled 1.jpg)
 fig.o2
 
-
-![[Fill_the_Space.jpeg]]
+![Fill_the_Space](/Users/chan/Documents/GitHub/my-digital-garden/assets/Fill_the_Space.jpeg)
 fig.o3
 
-
-![[Untitled 2.png]]
+![Untitled 2](/Users/chan/Documents/GitHub/my-digital-garden/assets/Untitled 2.jpg)
 fig.o4
 
 - - - -
@@ -36,14 +33,13 @@ But When I say:"I'm not A." that doesn't mean "I'm -A".
 
 When giving this example, I realize that the "Positive and negative" in this case is quite interesting. Thus, another question came out: Why are numbers positive and negative?
 
-
-![[Untitled 3.png]]
+![Untitled 3](/Users/chan/Documents/GitHub/my-digital-garden/assets/Untitled 3.jpg)
 fig.o5
 
 - - - -
 ## **the relationship between mother and daughter**
 
-![[Untitled 4.png]]
+![Untitled 4](/Users/chan/Documents/GitHub/my-digital-garden/assets/Untitled 4.jpg)
 fig.o6
 
 **I’m also discussing the narrative of the relationship between mother and daughter; and how such relations connected with or influenced by patriarchy or misogyny culture in China.** To some extend, I think such an idea also could represent Liminality: the relationship between mother and daughter is private, whereas practices expressing such relation is to place such personal space into the public space. **So, does that means the pieces are the Liminality between private and public space?** Also, (it just suddenly popped into my mind) one of the most significant conflicts in such a relationship is between social expectation and self-expectation/self-identity. (Chizuko Ueno also mentioned misogyny and mother and daughter's relationship in her book: 厌女-上野千鹤子. )
