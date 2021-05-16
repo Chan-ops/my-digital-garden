@@ -16,6 +16,6 @@ Recently, we started a workshop: East Asian Women Artist Workshop. (👉   [[Bef
 
 ![Imgur](https://i.imgur.com/kz4jtK3.png)
 
-<img class="test" src="assets/Screenshot-2020-08-20-at-14.png" alt="test">
-
 <img class="test" src="assets/Untitled.jpg" > 
+
+![](https://i.imgur.com/P1UbUST.png)
