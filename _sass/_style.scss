@@ -46,13 +46,14 @@ blockquote {
   padding: 1.5em;
   margin: 0;
   font-size: 0.88em;
-  background: $color-box-background;
+  background: #fffff;
   border-color: $color-border;
   border-style: solid;
   border-radius: 0;
 
   p {
     margin: 0;
+    border: 5px solid #3b3dfc
   }
 }
 
