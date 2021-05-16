@@ -12,7 +12,7 @@ Welcome to my Digital Research Garden, which mapping out all my researches by im
 
 ## There’s no index or navigation in here, you’ll need to follow a link to some starting point.
 
-Maybe start with my [[Recent Focus]]? 
+Maybe start with [[My Recent Focus]]? 
 
 ---
 I publish [[practice and research review]] every few weeks. 
