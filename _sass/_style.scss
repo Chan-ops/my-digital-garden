@@ -71,7 +71,10 @@ h1 {
   text-align: center;
   border: 5px solid #3b3dfc;
 }
-h2,
+h2{
+  color: $color-border;
+  
+},
 h3,
 h4,
 h5,
